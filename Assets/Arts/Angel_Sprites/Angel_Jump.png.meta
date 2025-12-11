@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: f912adba35396e449808781838fba44e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6094785178402982406
+    second: angel_jump (1)-0_0
+  - first:
+      213: 6991353639969877708
+    second: angel_jump (1)-0_1
+  - first:
+      213: 6617307352357389045
+    second: angel_jump (1)-0_2
+  - first:
+      213: -9122968475971232219
+    second: angel_jump (1)-0_3
+  - first:
+      213: -2834721085265139444
+    second: angel_jump (1)-0_4
+  - first:
+      213: -1859019424077994055
+    second: angel_jump (1)-0_5
+  - first:
+      213: -5901229350726818558
+    second: angel_jump (1)-0_6
+  - first:
+      213: -7738130609642075822
+    second: angel_jump (1)-0_7
+  - first:
+      213: 6708126861337386951
+    second: angel_jump (1)-0_8
+  - first:
+      213: 1556143250264879830
+    second: angel_jump (1)-0_9
+  - first:
+      213: -3951039887404695377
+    second: angel_jump (1)-0_10
+  - first:
+      213: -63807871547613608
+    second: angel_jump (1)-0_11
+  - first:
+      213: -2034510305727137798
+    second: angel_jump (1)-0_12
+  - first:
+      213: -8888286899866697655
+    second: angel_jump (1)-0_13
+  - first:
+      213: 5275550521833634454
+    second: angel_jump (1)-0_14
+  - first:
+      213: 3484393073469840444
+    second: angel_jump (1)-0_15
+  - first:
+      213: 2902218601128762128
+    second: angel_jump (1)-0_16
+  - first:
+      213: 426602378314857557
+    second: angel_jump (1)-0_17
+  - first:
+      213: -4780694080066023272
+    second: angel_jump (1)-0_18
+  - first:
+      213: -4329838581032890262
+    second: angel_jump (1)-0_19
+  - first:
+      213: -7196293327794071010
+    second: angel_jump (1)-0_20
+  - first:
+      213: 7055928756028309105
+    second: angel_jump (1)-0_21
+  - first:
+      213: -6645167351325061388
+    second: angel_jump (1)-0_22
+  - first:
+      213: -1595379679929576086
+    second: angel_jump (1)-0_23
+  - first:
+      213: 9204227456634584022
+    second: angel_jump (1)-0_24
+  - first:
+      213: -3692326269335986634
+    second: angel_jump (1)-0_25
+  - first:
+      213: 3727143417242972711
+    second: angel_jump (1)-0_26
+  - first:
+      213: -804440984017853767
+    second: angel_jump (1)-0_27
+  - first:
+      213: -3757379944955551951
+    second: angel_jump (1)-0_28
+  - first:
+      213: -3196904790347403651
+    second: angel_jump (1)-0_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angel_jump (1)-0_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2643
+        width: 369
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a860504d6059450800000000000000
+      internalID: 6094785178402982406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2643
+        width: 383
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccee9810817460160800000000000000
+      internalID: 6991353639969877708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_2
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 2643
+        width: 384
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2c7da1af565db50800000000000000
+      internalID: 6617307352357389045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_3
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 2643
+        width: 422
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ed5a4b184b46180800000000000000
+      internalID: -9122968475971232219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2268
+        width: 415
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c092673213c09a8d0800000000000000
+      internalID: -2834721085265139444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2268
+        width: 361
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7a74deeaf6336e0800000000000000
+      internalID: -1859019424077994055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_6
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2268
+        width: 306
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a1dbeb2f9a1ea0800000000000000
+      internalID: -5901229350726818558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_7
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2291
+        width: 308
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25905ba7533ac9490800000000000000
+      internalID: -7738130609642075822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1944
+        width: 335
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf5546d6dd081d50800000000000000
+      internalID: 6708126861337386951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_9
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1968
+        width: 356
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2f8a39a08889510800000000000000
+      internalID: 1556143250264879830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_10
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1992
+        width: 345
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa008d9e7261b29c0800000000000000
+      internalID: -3951039887404695377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_11
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1997
+        width: 283
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ed782341f4d1ff0800000000000000
+      internalID: -63807871547613608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1623
+        width: 321
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7334ff7a7f3c3e0800000000000000
+      internalID: -2034510305727137798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_13
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1621
+        width: 353
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94000bf182676a480800000000000000
+      internalID: -8888286899866697655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_14
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1617
+        width: 359
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a3580af35863940800000000000000
+      internalID: 5275550521833634454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_15
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1571
+        width: 229
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c500a0a0d0b5030800000000000000
+      internalID: 3484393073469840444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1170
+        width: 192
+        height: 296
+      alignment: 9
+      pivot: {x: 0.48884454, y: 0.59768635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b9fcce070c64820800000000000000
+      internalID: 2902218601128762128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_17
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1162
+        width: 186
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5115153, y: 0.59503156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c3bc35a989be500800000000000000
+      internalID: 426602378314857557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_18
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1161
+        width: 186
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5115153, y: 0.5910653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8901ad9301097adb0800000000000000
+      internalID: -4780694080066023272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_19
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1168
+        width: 186
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5172736, y: 0.581807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d0c240c259e3c0800000000000000
+      internalID: -4329838581032890262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 815
+        width: 187
+        height: 277
+      alignment: 9
+      pivot: {x: 0.51145387, y: 0.56959087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a12519851a12c90800000000000000
+      internalID: -7196293327794071010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_21
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 841
+        width: 256
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5543833, y: 0.5415086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef787d1d1bbe160800000000000000
+      internalID: 7055928756028309105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_22
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 861
+        width: 306
+        height: 248
+      alignment: 9
+      pivot: {x: 0.56999576, y: 0.51727295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe0f37608f97c3a0800000000000000
+      internalID: -6645167351325061388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_23
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 864
+        width: 347
+        height: 248
+      alignment: 9
+      pivot: {x: 0.58641523, y: 0.5129547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65dbef32a21cd9e0800000000000000
+      internalID: -1595379679929576086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 489
+        width: 363
+        height: 248
+      alignment: 9
+      pivot: {x: 0.59223044, y: 0.51730764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbf9901b1cfbbf70800000000000000
+      internalID: 9204227456634584022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_25
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 489
+        width: 364
+        height: 247
+      alignment: 9
+      pivot: {x: 0.6061274, y: 0.5173775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e926122d832ccc0800000000000000
+      internalID: -3692326269335986634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_26
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 489
+        width: 327
+        height: 247
+      alignment: 9
+      pivot: {x: 0.61813605, y: 0.5173775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722f3b3d03979b330800000000000000
+      internalID: 3727143417242972711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_27
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 483
+        width: 248
+        height: 268
+      alignment: 9
+      pivot: {x: 0.6349989, y: 0.4711716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2a9d8ef2d06d4f0800000000000000
+      internalID: -804440984017853767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 98
+        width: 245
+        height: 273
+      alignment: 9
+      pivot: {x: 0.6296438, y: 0.4748438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f5fb6f8da1bdbc0800000000000000
+      internalID: -3757379944955551951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_jump (1)-0_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 82
+        width: 238
+        height: 278
+      alignment: 9
+      pivot: {x: 0.62985, y: 0.4660325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e2996f70052a3d0800000000000000
+      internalID: -3196904790347403651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ab65dfde407a214eba347c0969aa1eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      angel_jump (1)-0_0: 6094785178402982406
+      angel_jump (1)-0_1: 6991353639969877708
+      angel_jump (1)-0_10: -3951039887404695377
+      angel_jump (1)-0_11: -63807871547613608
+      angel_jump (1)-0_12: -2034510305727137798
+      angel_jump (1)-0_13: -8888286899866697655
+      angel_jump (1)-0_14: 5275550521833634454
+      angel_jump (1)-0_15: 3484393073469840444
+      angel_jump (1)-0_16: 2902218601128762128
+      angel_jump (1)-0_17: 426602378314857557
+      angel_jump (1)-0_18: -4780694080066023272
+      angel_jump (1)-0_19: -4329838581032890262
+      angel_jump (1)-0_2: 6617307352357389045
+      angel_jump (1)-0_20: -7196293327794071010
+      angel_jump (1)-0_21: 7055928756028309105
+      angel_jump (1)-0_22: -6645167351325061388
+      angel_jump (1)-0_23: -1595379679929576086
+      angel_jump (1)-0_24: 9204227456634584022
+      angel_jump (1)-0_25: -3692326269335986634
+      angel_jump (1)-0_26: 3727143417242972711
+      angel_jump (1)-0_27: -804440984017853767
+      angel_jump (1)-0_28: -3757379944955551951
+      angel_jump (1)-0_29: -3196904790347403651
+      angel_jump (1)-0_3: -9122968475971232219
+      angel_jump (1)-0_4: -2834721085265139444
+      angel_jump (1)-0_5: -1859019424077994055
+      angel_jump (1)-0_6: -5901229350726818558
+      angel_jump (1)-0_7: -7738130609642075822
+      angel_jump (1)-0_8: 6708126861337386951
+      angel_jump (1)-0_9: 1556143250264879830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

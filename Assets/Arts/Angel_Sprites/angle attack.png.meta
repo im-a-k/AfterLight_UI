@@ -1,0 +1,5707 @@
+fileFormatVersion: 2
+guid: 2be7ff6c952adeb4e8dcd589b7a4d633
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5492826015253449128
+    second: angle attack_0
+  - first:
+      213: 3716901469623190817
+    second: angle attack_1
+  - first:
+      213: -3417859138382927096
+    second: angle attack_2
+  - first:
+      213: -606629692205442781
+    second: angle attack_3
+  - first:
+      213: -145260023600040815
+    second: angle attack_4
+  - first:
+      213: -4168940541368634119
+    second: angle attack_5
+  - first:
+      213: -7578414855229779745
+    second: angle attack_6
+  - first:
+      213: 1145204509108994003
+    second: angle attack_7
+  - first:
+      213: -2796004634977806285
+    second: angle attack_8
+  - first:
+      213: -7641051308700369010
+    second: angle attack_9
+  - first:
+      213: -6056093279787590286
+    second: angle attack_10
+  - first:
+      213: 5123707567148620751
+    second: angle attack_11
+  - first:
+      213: 6285140089681987298
+    second: angle attack_12
+  - first:
+      213: -5645523289253889267
+    second: angle attack_13
+  - first:
+      213: -7673379539414760128
+    second: angle attack_14
+  - first:
+      213: -498258935053792741
+    second: angle attack_15
+  - first:
+      213: -1235502058653748968
+    second: angle attack_16
+  - first:
+      213: -6399928242991865334
+    second: angle attack_17
+  - first:
+      213: 4631877473728289851
+    second: angle attack_18
+  - first:
+      213: -2240337090096615810
+    second: angle attack_19
+  - first:
+      213: -3936706211886265422
+    second: angle attack_20
+  - first:
+      213: -4809934684810187463
+    second: angle attack_21
+  - first:
+      213: -119719253051412874
+    second: angle attack_22
+  - first:
+      213: 2179067827632440046
+    second: angle attack_23
+  - first:
+      213: 1603114491769581181
+    second: angle attack_24
+  - first:
+      213: 3516558389146570056
+    second: angle attack_25
+  - first:
+      213: 7136418857488174438
+    second: angle attack_26
+  - first:
+      213: -4536261151917707626
+    second: angle attack_27
+  - first:
+      213: 3898039909480382854
+    second: angle attack_28
+  - first:
+      213: -8845615876981036278
+    second: angle attack_29
+  - first:
+      213: 2619883560110942541
+    second: angle attack_30
+  - first:
+      213: -8680641183866149897
+    second: angle attack_31
+  - first:
+      213: 8303456802714370841
+    second: angle attack_32
+  - first:
+      213: 2835973711556292357
+    second: angle attack_33
+  - first:
+      213: 9092784995411091378
+    second: angle attack_34
+  - first:
+      213: 9020228195167730533
+    second: angle attack_35
+  - first:
+      213: -5870421499409311160
+    second: angle attack_36
+  - first:
+      213: -5490921137929946167
+    second: angle attack_37
+  - first:
+      213: -1110172798829940547
+    second: angle attack_38
+  - first:
+      213: 6145707054576134113
+    second: angle attack_39
+  - first:
+      213: -3753612853216432857
+    second: angle attack_40
+  - first:
+      213: 753016609791410315
+    second: angle attack_41
+  - first:
+      213: -4999128710123521125
+    second: angle attack_42
+  - first:
+      213: -2625308117122584822
+    second: angle attack_43
+  - first:
+      213: -7626653367996276124
+    second: angle attack_44
+  - first:
+      213: 2621113763710366280
+    second: angle attack_45
+  - first:
+      213: -6412359571324705671
+    second: angle attack_46
+  - first:
+      213: 7738005792065520961
+    second: angle attack_47
+  - first:
+      213: -6492718406550605283
+    second: angle attack_48
+  - first:
+      213: 8894225365814183565
+    second: angle attack_49
+  - first:
+      213: 3905652672200449248
+    second: angle attack_50
+  - first:
+      213: 8870844981139522433
+    second: angle attack_51
+  - first:
+      213: 3117547746430339112
+    second: angle attack_52
+  - first:
+      213: -1531212288636988021
+    second: angle attack_53
+  - first:
+      213: 2422251940974703378
+    second: angle attack_54
+  - first:
+      213: 7018308575507500147
+    second: angle attack_55
+  - first:
+      213: 171994344097589085
+    second: angle attack_56
+  - first:
+      213: 7541594735238186187
+    second: angle attack_57
+  - first:
+      213: 7930623281957571790
+    second: angle attack_58
+  - first:
+      213: -8557165910161477000
+    second: angle attack_59
+  - first:
+      213: -3570120361402534903
+    second: angle attack_60
+  - first:
+      213: -8040392749305531361
+    second: angle attack_61
+  - first:
+      213: 7463502797234067725
+    second: angle attack_62
+  - first:
+      213: 6106317044441161585
+    second: angle attack_63
+  - first:
+      213: 1449421665641936453
+    second: angle attack_64
+  - first:
+      213: 5758329479173137367
+    second: angle attack_65
+  - first:
+      213: 2040708153976510000
+    second: angle attack_66
+  - first:
+      213: -5152740357968542489
+    second: angle attack_67
+  - first:
+      213: 2166909179192903879
+    second: angle attack_68
+  - first:
+      213: -2760869899085402394
+    second: angle attack_69
+  - first:
+      213: -8714665811645663238
+    second: angle attack_70
+  - first:
+      213: 3438333012751903000
+    second: angle attack_71
+  - first:
+      213: 2576146248364233399
+    second: angle attack_72
+  - first:
+      213: -7312939237724231433
+    second: angle attack_73
+  - first:
+      213: -6483633684740186654
+    second: angle attack_74
+  - first:
+      213: 6240447858930736450
+    second: angle attack_75
+  - first:
+      213: -4539923206778871868
+    second: angle attack_76
+  - first:
+      213: 8162162123354821526
+    second: angle attack_77
+  - first:
+      213: -5547664264046207729
+    second: angle attack_78
+  - first:
+      213: -815179562097255148
+    second: angle attack_79
+  - first:
+      213: -7736165040676511937
+    second: angle attack_80
+  - first:
+      213: 7596474255556671192
+    second: angle attack_81
+  - first:
+      213: -7660478208979843512
+    second: angle attack_82
+  - first:
+      213: 1739068489476429627
+    second: angle attack_83
+  - first:
+      213: -5671345064298663968
+    second: angle attack_84
+  - first:
+      213: -1202715281454936464
+    second: angle attack_85
+  - first:
+      213: -4340842257361812202
+    second: angle attack_86
+  - first:
+      213: -359139581944202826
+    second: angle attack_87
+  - first:
+      213: 7513029028821241973
+    second: angle attack_88
+  - first:
+      213: 1036879792114302706
+    second: angle attack_89
+  - first:
+      213: 3767291694487839429
+    second: angle attack_90
+  - first:
+      213: -156953754131825760
+    second: angle attack_91
+  - first:
+      213: -8470701409974637965
+    second: angle attack_92
+  - first:
+      213: -894888622225471440
+    second: angle attack_93
+  - first:
+      213: 5134800052452869907
+    second: angle attack_94
+  - first:
+      213: 8487201065817824628
+    second: angle attack_95
+  - first:
+      213: 4295488724194176625
+    second: angle attack_96
+  - first:
+      213: -51284720925767100
+    second: angle attack_97
+  - first:
+      213: -6964427463129651416
+    second: angle attack_98
+  - first:
+      213: 1798475640582056047
+    second: angle attack_99
+  - first:
+      213: 4272358383660592405
+    second: angle attack_100
+  - first:
+      213: 3413805922070765925
+    second: angle attack_101
+  - first:
+      213: 2307487814988512444
+    second: angle attack_102
+  - first:
+      213: 2497420862848026842
+    second: angle attack_103
+  - first:
+      213: -8488289519240205903
+    second: angle attack_104
+  - first:
+      213: -5327589040713939550
+    second: angle attack_105
+  - first:
+      213: 1163480107730938442
+    second: angle attack_106
+  - first:
+      213: -5653800486691870704
+    second: angle attack_107
+  - first:
+      213: -3616920044259502636
+    second: angle attack_108
+  - first:
+      213: -5873620981457489350
+    second: angle attack_109
+  - first:
+      213: 4166793585237582051
+    second: angle attack_110
+  - first:
+      213: 183498647610681325
+    second: angle attack_111
+  - first:
+      213: -8186592829106773074
+    second: angle attack_112
+  - first:
+      213: -5416818101205542889
+    second: angle attack_113
+  - first:
+      213: -8129263827738383398
+    second: angle attack_114
+  - first:
+      213: -7415948676509053993
+    second: angle attack_115
+  - first:
+      213: 2889131909624269990
+    second: angle attack_116
+  - first:
+      213: -5650557879627708408
+    second: angle attack_117
+  - first:
+      213: -5092817078798717131
+    second: angle attack_118
+  - first:
+      213: -3338666945540735120
+    second: angle attack_119
+  - first:
+      213: 6265318105458529806
+    second: angle attack_120
+  - first:
+      213: 2952262891759997809
+    second: angle attack_121
+  - first:
+      213: 2566784578914372090
+    second: angle attack_122
+  - first:
+      213: -1317603821626698471
+    second: angle attack_123
+  - first:
+      213: -2136032396972665168
+    second: angle attack_124
+  - first:
+      213: 1520496930101879228
+    second: angle attack_125
+  - first:
+      213: -7545905283524799119
+    second: angle attack_126
+  - first:
+      213: 1883211236871353812
+    second: angle attack_127
+  - first:
+      213: 2331632033391664673
+    second: angle attack_128
+  - first:
+      213: 5737323463987792659
+    second: angle attack_129
+  - first:
+      213: -5226648425978176014
+    second: angle attack_130
+  - first:
+      213: -7992051771694303182
+    second: angle attack_131
+  - first:
+      213: -8778633981155378584
+    second: angle attack_132
+  - first:
+      213: -3508756890996883998
+    second: angle attack_133
+  - first:
+      213: -2006059846182848001
+    second: angle attack_134
+  - first:
+      213: 6149252663322173964
+    second: angle attack_135
+  - first:
+      213: -5816872640984280966
+    second: angle attack_136
+  - first:
+      213: 6331879537847726479
+    second: angle attack_137
+  - first:
+      213: 4767517018287487783
+    second: angle attack_138
+  - first:
+      213: -8565421225790893088
+    second: angle attack_139
+  - first:
+      213: -2720451544445606405
+    second: angle attack_140
+  - first:
+      213: 4133168789448155729
+    second: angle attack_141
+  - first:
+      213: -1570229077570807210
+    second: angle attack_142
+  - first:
+      213: -7587836611478692811
+    second: angle attack_143
+  - first:
+      213: 2899493917997308585
+    second: angle attack_144
+  - first:
+      213: 1366509861223962999
+    second: angle attack_145
+  - first:
+      213: 2167256588869141850
+    second: angle attack_146
+  - first:
+      213: 5681605872342507142
+    second: angle attack_147
+  - first:
+      213: 5363783468313915088
+    second: angle attack_148
+  - first:
+      213: 8038581222433161426
+    second: angle attack_149
+  - first:
+      213: 8300730580441804840
+    second: angle attack_150
+  - first:
+      213: -6079918684700195765
+    second: angle attack_151
+  - first:
+      213: -9196532515414109719
+    second: angle attack_152
+  - first:
+      213: -6746503418876134185
+    second: angle attack_153
+  - first:
+      213: 1867433580608755438
+    second: angle attack_154
+  - first:
+      213: 5710502948652269168
+    second: angle attack_155
+  - first:
+      213: -1361335137454898904
+    second: angle attack_156
+  - first:
+      213: -3533407243676866228
+    second: angle attack_157
+  - first:
+      213: 3285650938394200693
+    second: angle attack_158
+  - first:
+      213: 3234447566778927302
+    second: angle attack_159
+  - first:
+      213: -4061582677814908767
+    second: angle attack_160
+  - first:
+      213: 308536727731020084
+    second: angle attack_161
+  - first:
+      213: 677853616975109408
+    second: angle attack_162
+  - first:
+      213: 6357724818941906173
+    second: angle attack_163
+  - first:
+      213: 3069996534800069163
+    second: angle attack_164
+  - first:
+      213: -7120344495699501284
+    second: angle attack_165
+  - first:
+      213: 9184355957456210961
+    second: angle attack_166
+  - first:
+      213: -1602927677301260980
+    second: angle attack_167
+  - first:
+      213: 3578293309785337901
+    second: angle attack_168
+  - first:
+      213: -200367129990347647
+    second: angle attack_169
+  - first:
+      213: -6995086712848111729
+    second: angle attack_170
+  - first:
+      213: -1033607906871482828
+    second: angle attack_171
+  - first:
+      213: 5820353258625162110
+    second: angle attack_172
+  - first:
+      213: 2527173989683135859
+    second: angle attack_173
+  - first:
+      213: -2585757272885664768
+    second: angle attack_174
+  - first:
+      213: 3393103503225217725
+    second: angle attack_175
+  - first:
+      213: 7779437110388176129
+    second: angle attack_176
+  - first:
+      213: 3194472415167781042
+    second: angle attack_177
+  - first:
+      213: 7290109815133864964
+    second: angle attack_178
+  - first:
+      213: -4994089449575002764
+    second: angle attack_179
+  - first:
+      213: -3223414078708801493
+    second: angle attack_180
+  - first:
+      213: 5728458645562846519
+    second: angle attack_181
+  - first:
+      213: -3287176515211955583
+    second: angle attack_182
+  - first:
+      213: -1701767381035272053
+    second: angle attack_183
+  - first:
+      213: -8321741271709713318
+    second: angle attack_184
+  - first:
+      213: 379892892520900616
+    second: angle attack_185
+  - first:
+      213: 2561165741186233914
+    second: angle attack_186
+  - first:
+      213: 7831233117657838310
+    second: angle attack_187
+  - first:
+      213: 538293214410214359
+    second: angle attack_188
+  - first:
+      213: -4015735694887917945
+    second: angle attack_189
+  - first:
+      213: -6986741560761221802
+    second: angle attack_190
+  - first:
+      213: 7048467859912385192
+    second: angle attack_191
+  - first:
+      213: 141555583258689230
+    second: angle attack_192
+  - first:
+      213: -314920750425236904
+    second: angle attack_193
+  - first:
+      213: -7598358648340543463
+    second: angle attack_194
+  - first:
+      213: 1971432200324376094
+    second: angle attack_195
+  - first:
+      213: 7659576151829071084
+    second: angle attack_196
+  - first:
+      213: 556604434282221218
+    second: angle attack_197
+  - first:
+      213: -5392807362131472269
+    second: angle attack_198
+  - first:
+      213: -9168000864054268572
+    second: angle attack_199
+  - first:
+      213: -8611712803475517979
+    second: angle attack_200
+  - first:
+      213: 8575405419770780314
+    second: angle attack_201
+  - first:
+      213: -2782806093847210679
+    second: angle attack_202
+  - first:
+      213: 5388250981718127157
+    second: angle attack_203
+  - first:
+      213: -8893525256898604679
+    second: angle attack_204
+  - first:
+      213: -7346623215310727663
+    second: angle attack_205
+  - first:
+      213: -3910839667541467252
+    second: angle attack_206
+  - first:
+      213: -6489366524961210883
+    second: angle attack_207
+  - first:
+      213: 6641198823112329046
+    second: angle attack_208
+  - first:
+      213: -5882960213615785459
+    second: angle attack_209
+  - first:
+      213: 4646117820484203416
+    second: angle attack_210
+  - first:
+      213: 2047238753068671388
+    second: angle attack_211
+  - first:
+      213: -3133636236642129035
+    second: angle attack_212
+  - first:
+      213: 4338047366350586644
+    second: angle attack_213
+  - first:
+      213: 6018132843223583966
+    second: angle attack_214
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angle attack_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4145
+        width: 248
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8563bc367df85c3b0800000000000000
+      internalID: -5492826015253449128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_1
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 4145
+        width: 248
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12584029136159330800000000000000
+      internalID: 3716901469623190817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_2
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 4145
+        width: 248
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bec54e8335190d0800000000000000
+      internalID: -3417859138382927096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_3
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 4144
+        width: 243
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329d3ed4281d497f0800000000000000
+      internalID: -606629692205442781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_4
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 4152
+        width: 240
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194314537ceebfdf0800000000000000
+      internalID: -145260023600040815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_5
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 4145
+        width: 248
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f47ff56aa2f426c0800000000000000
+      internalID: -4168940541368634119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_6
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 4145
+        width: 249
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd05c7167df04d690800000000000000
+      internalID: -7578414855229779745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3770
+        width: 288
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dffd98fe6594ef00800000000000000
+      internalID: 1145204509108994003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 4079
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3385dcd29989239d0800000000000000
+      internalID: -2796004634977806285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_9
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3770
+        width: 313
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f716a915885f590800000000000000
+      internalID: -7641051308700369010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_10
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 4079
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d51a3af3f64fba0800000000000000
+      internalID: -6056093279787590286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_11
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 3770
+        width: 313
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbdfd0c2e01b1740800000000000000
+      internalID: 5123707567148620751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_12
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 4078
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6cf098c9d493750800000000000000
+      internalID: 6285140089681987298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_13
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 3770
+        width: 376
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bb3dcca7217a1b0800000000000000
+      internalID: -5645523289253889267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_14
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 4078
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045ce66d6fda28590800000000000000
+      internalID: -7673379539414760128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_15
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 3770
+        width: 352
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a44f17324d519f0800000000000000
+      internalID: -498258935053792741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_16
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 4078
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811fda27c6d9adee0800000000000000
+      internalID: -1235502058653748968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_17
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 3770
+        width: 347
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02ea78db23ee27a0800000000000000
+      internalID: -6399928242991865334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_18
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 3771
+        width: 374
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c55b8850cb74040800000000000000
+      internalID: 4631877473728289851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3395
+        width: 313
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ea8af4949b8e0e0800000000000000
+      internalID: -2240337090096615810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_20
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3583
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb027fce820e59c0800000000000000
+      internalID: -3936706211886265422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_21
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 3394
+        width: 307
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dee0763edaf3db0800000000000000
+      internalID: -4809934684810187463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_22
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 3590
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e681149fba65ef0800000000000000
+      internalID: -119719253051412874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_23
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 3394
+        width: 277
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2838fd4aa9d3e10800000000000000
+      internalID: 2179067827632440046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_24
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 3395
+        width: 240
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee438f2286f3610800000000000000
+      internalID: 1603114491769581181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_25
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 3395
+        width: 311
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d400139335dc030800000000000000
+      internalID: 3516558389146570056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_26
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 3395
+        width: 326
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d4bf8f327a90360800000000000000
+      internalID: 7136418857488174438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_27
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 3394
+        width: 326
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e6a873486fb01c0800000000000000
+      internalID: -4536261151917707626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_28
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3545
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681cfdc15ae981630800000000000000
+      internalID: 3898039909480382854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_29
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 3546
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b6df8d93f0e3580800000000000000
+      internalID: -8845615876981036278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_30
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3526
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d496c499732bb5420800000000000000
+      internalID: 2619883560110942541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_31
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3531
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f32805d5da288780800000000000000
+      internalID: -8680641183866149897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_32
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3500
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913479de7fdcb3370800000000000000
+      internalID: 8303456802714370841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3510
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fa8a5a0176b5720800000000000000
+      internalID: 2835973711556292357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3020
+        width: 336
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfda7617cf003e70800000000000000
+      internalID: 9092784995411091378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_35
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3019
+        width: 351
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b7fe590c94e2d70800000000000000
+      internalID: 9020228195167730533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_36
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 3020
+        width: 330
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a54e5cfb2188ea0800000000000000
+      internalID: -5870421499409311160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_37
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3019
+        width: 331
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb700431545cc3b0800000000000000
+      internalID: -5490921137929946167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_38
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 3341
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0b07ea8bfd790f0800000000000000
+      internalID: -1110172798829940547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_39
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 3020
+        width: 326
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e76f993100f94550800000000000000
+      internalID: 6145707054576134113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_40
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72da1bb5ffc78ebc0800000000000000
+      internalID: -3753612853216432857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_41
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 3020
+        width: 325
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b800690fd90437a00800000000000000
+      internalID: 753016609791410315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_42
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 3329
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b71a6bce68f9ab0800000000000000
+      internalID: -4999128710123521125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_43
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 3020
+        width: 324
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f65fc4d28019bd0800000000000000
+      internalID: -2625308117122584822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_44
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 3329
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462ab876b2fa82690800000000000000
+      internalID: -7626653367996276124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_45
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 3248
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842f7d1b411106420800000000000000
+      internalID: 2621113763710366280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_46
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 3263
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9746d1ba1f8b207a0800000000000000
+      internalID: -6412359571324705671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_47
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 3280
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1450bf9254be26b60800000000000000
+      internalID: 7738005792065520961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_48
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 3243
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1239e6520b35e5a0800000000000000
+      internalID: -6492718406550605283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2645
+        width: 325
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d868f99b8d2ae6b70800000000000000
+      internalID: 8894225365814183565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2955
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec109e896aa33630800000000000000
+      internalID: 3905652672200449248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_51
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2645
+        width: 325
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183c066b2829b1b70800000000000000
+      internalID: 8870844981139522433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_52
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2955
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828cc4c6821c34b20800000000000000
+      internalID: 3117547746430339112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_53
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2645
+        width: 329
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b855414498a00cae0800000000000000
+      internalID: -1531212288636988021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_54
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2644
+        width: 346
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2133c428e419d9120800000000000000
+      internalID: 2422251940974703378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_55
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2645
+        width: 347
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cc33ff67a066160800000000000000
+      internalID: 7018308575507500147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_56
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 2645
+        width: 259
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d572057d1fb036200800000000000000
+      internalID: 171994344097589085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_57
+      rect:
+        serializedVersion: 2
+        x: 4185
+        y: 2645
+        width: 390
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc404d1647029a860800000000000000
+      internalID: 7541594735238186187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_58
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2584
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc06805bdb3f0e60800000000000000
+      internalID: 7930623281957571790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_59
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 2593
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8723eb841f6de3980800000000000000
+      internalID: -8557165910161477000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2270
+        width: 602
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90476355272647ec0800000000000000
+      internalID: -3570120361402534903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_61
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2270
+        width: 559
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f147403f469ca6090800000000000000
+      internalID: -8040392749305531361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_62
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2564
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0955413040b39760800000000000000
+      internalID: 7463502797234067725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_63
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2270
+        width: 522
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f14dfcffefdb450800000000000000
+      internalID: 6106317044441161585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_64
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2572
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b75653516d1410800000000000000
+      internalID: 1449421665641936453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_65
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2270
+        width: 522
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d366c10722b9ef40800000000000000
+      internalID: 5758329479173137367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_66
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 2270
+        width: 522
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0365300014d025c10800000000000000
+      internalID: 2040708153976510000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_67
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 2564
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4477fd1f9cd78b0800000000000000
+      internalID: -5152740357968542489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_68
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 2270
+        width: 289
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8835eea68621e10800000000000000
+      internalID: 2166909179192903879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_69
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 2571
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee22f9547b6fa9d0800000000000000
+      internalID: -2760869899085402394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_70
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 2571
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af77e98dd994f0780800000000000000
+      internalID: -8714665811645663238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_71
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2512
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819639478a967bf20800000000000000
+      internalID: 3438333012751903000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_72
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 2516
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b294372d5f40c320800000000000000
+      internalID: 2576146248364233399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_73
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 2525
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f86e674288338a90800000000000000
+      internalID: -7312939237724231433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_74
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2270
+        width: 288
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eddd47f3818506a0800000000000000
+      internalID: -6483633684740186654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_75
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2506
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dd9eea3468a9650800000000000000
+      internalID: 6240447858930736450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_76
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2509
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf9460a5e3fef0c0800000000000000
+      internalID: -4539923206778871868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_77
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2491
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69356b9c433d54170800000000000000
+      internalID: 8162162123354821526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_78
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2475
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d9560aebcb203b0800000000000000
+      internalID: -5547664264046207729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_79
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 2477
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dd80dd186efa4f0800000000000000
+      internalID: -815179562097255148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_80
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2443
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f5eaa22ee93a490800000000000000
+      internalID: -7736165040676511937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_81
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2473
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6fadb66191c6960800000000000000
+      internalID: 7596474255556671192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_82
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2449
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846c228e7a380b590800000000000000
+      internalID: -7660478208979843512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_83
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 2448
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b375153c399622810800000000000000
+      internalID: 1739068489476429627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_84
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2451
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef20db46b55b41b0800000000000000
+      internalID: -5671345064298663968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_85
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2457
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ec1f2e2d81f4fe0800000000000000
+      internalID: -1202715281454936464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_86
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2457
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615c1f737fa32c3c0800000000000000
+      internalID: -4340842257361812202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_87
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2458
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9fe69f374140bf0800000000000000
+      internalID: -359139581944202826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_88
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57096129814a34860800000000000000
+      internalID: 7513029028821241973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_89
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 2458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fef0c36dacb36e00800000000000000
+      internalID: 1036879792114302706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_90
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2407
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c22a3f06db184430800000000000000
+      internalID: 3767291694487839429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_91
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2405
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abfec6646362ddf0800000000000000
+      internalID: -156953754131825760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_92
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 2412
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aaf0482f5027a80800000000000000
+      internalID: -8470701409974637965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_93
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 2404
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03846b61a87b493f0800000000000000
+      internalID: -894888622225471440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_94
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 2258
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3174c1f3179724740800000000000000
+      internalID: 5134800052452869907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_95
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1895
+        width: 367
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d5369f66898c570800000000000000
+      internalID: 8487201065817824628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_96
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2191
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e2a467c34ac9b30800000000000000
+      internalID: 4295488724194176625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_97
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1895
+        width: 658
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a80da61dcc94ff0800000000000000
+      internalID: -51284720925767100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_98
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2191
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827ae241f12695f90800000000000000
+      internalID: -6964427463129651416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_99
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1895
+        width: 668
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68261ef01875f810800000000000000
+      internalID: 1798475640582056047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_100
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1871
+        width: 2665
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d604360577a4b30800000000000000
+      internalID: 4272358383660592405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_101
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1883
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56127252666406f20800000000000000
+      internalID: 3413805922070765925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_102
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1856
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcbeef21f7d50020800000000000000
+      internalID: 2307487814988512444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_103
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 1843
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8c4b8fa0f98a220800000000000000
+      internalID: 2497420862848026842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_104
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1834
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b92407b7a9833a80800000000000000
+      internalID: -8488289519240205903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_105
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 1852
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a54bf68ef99016b0800000000000000
+      internalID: -5327589040713939550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_106
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 1849
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a298c5ef2852010800000000000000
+      internalID: 1163480107730938442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_107
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 1848
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018ecc7996aa981b0800000000000000
+      internalID: -5653800486691870704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_108
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 1785
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d51cec026e1ecdc0800000000000000
+      internalID: -3616920044259502636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_109
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 1796
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32f1fe46d4bc7ea0800000000000000
+      internalID: -5873620981457489350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1499
+        width: 2665
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0667c60bc63d930800000000000000
+      internalID: 4166793585237582051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_111
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1499
+        width: 499
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7699b3c0beb8200800000000000000
+      internalID: 183498647610681325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_112
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 1832
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3a4544231636e80800000000000000
+      internalID: -8186592829106773074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_113
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 1499
+        width: 499
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718dcb0f2a893d4b0800000000000000
+      internalID: -5416818101205542889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_114
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 1499
+        width: 473
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adba83e8e9d0f2f80800000000000000
+      internalID: -8129263827738383398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_115
+      rect:
+        serializedVersion: 2
+        x: 4646
+        y: 1804
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db462858f1451990800000000000000
+      internalID: -7415948676509053993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_116
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 1734
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac866e1a22481820800000000000000
+      internalID: 2889131909624269990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_117
+      rect:
+        serializedVersion: 2
+        x: 4621
+        y: 1634
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8088102eb8f2591b0800000000000000
+      internalID: -5650557879627708408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_118
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 1709
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fe82889dda259b0800000000000000
+      internalID: -5092817078798717131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_119
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 1584
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb4bf1a1caaa1d0800000000000000
+      internalID: -3338666945540735120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_120
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 1616
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06dda03f91e2f650800000000000000
+      internalID: 6265318105458529806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_121
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 1542
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1731ce2557b88f820800000000000000
+      internalID: 2952262891759997809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_122
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 1508
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af94421a9fc0f9320800000000000000
+      internalID: 2566784578914372090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_123
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1124
+        width: 362
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9155e312e4ee6bde0800000000000000
+      internalID: -1317603821626698471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_124
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1441
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6d7b52ad94b52e0800000000000000
+      internalID: -2136032396972665168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_125
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1145
+        width: 344
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb16bc8e6e3e91510800000000000000
+      internalID: 1520496930101879228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_126
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1460
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d2c2ef1f874790800000000000000
+      internalID: -7545905283524799119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_127
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1145
+        width: 325
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5bdba64a2822a10800000000000000
+      internalID: 1883211236871353812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_128
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1145
+        width: 312
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e5b391bfe9b5020800000000000000
+      internalID: 2331632033391664673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_129
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1144
+        width: 304
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b8188fa411f9f40800000000000000
+      internalID: 5737323463987792659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_130
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1145
+        width: 303
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd57b3d2f63777b0800000000000000
+      internalID: -5226648425978176014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_131
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 1145
+        width: 298
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23831a1e147861190800000000000000
+      internalID: -7992051771694303182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_132
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1420
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a7f04c7e60c2680800000000000000
+      internalID: -8778633981155378584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_133
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1434
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed3de4a2346e4fc0800000000000000
+      internalID: -3508756890996883998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_134
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1441
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9b81ec23b0924e0800000000000000
+      internalID: -2006059846182848001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_135
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1411
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02617797b8865550800000000000000
+      internalID: 6149252663322173964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_136
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1420
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a709172f621564fa0800000000000000
+      internalID: -5816872640984280966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_137
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1378
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f817af554ea5fd750800000000000000
+      internalID: 6331879537847726479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_138
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1341
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bb7aff77f992240800000000000000
+      internalID: 4767517018287487783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_139
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e39425d6c2812980800000000000000
+      internalID: -8565421225790893088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_140
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1391
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf528a0ebb30f3ad0800000000000000
+      internalID: -2720451544445606405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_141
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1382
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152e9c39d17fb5930800000000000000
+      internalID: 4133168789448155729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_142
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1354
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a176f29fc653ae0800000000000000
+      internalID: -1570229077570807210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_143
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1398
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cdb1fcdc692b690800000000000000
+      internalID: -7587836611478692811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_144
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1396
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa92a23b521d3820800000000000000
+      internalID: 2899493917997308585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_145
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1389
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779925c8a71d6f210800000000000000
+      internalID: 1366509861223962999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_146
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1371
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a558bac8264a31e10800000000000000
+      internalID: 2167256588869141850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_147
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e9fbe307e19de40800000000000000
+      internalID: 5681605872342507142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_148
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1331
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dea6f855acff6a40800000000000000
+      internalID: 5363783468313915088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_149
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1350
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d001451807ce8f60800000000000000
+      internalID: 8038581222433161426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_150
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1337
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820b477db7e123370800000000000000
+      internalID: 8300730580441804840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_151
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b444f274b2acf9ba0800000000000000
+      internalID: -6079918684700195765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_152
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1344
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1996d076a5f5080800000000000000
+      internalID: -9196532515414109719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_153
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1324
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcfde192ea9f52a0800000000000000
+      internalID: -6746503418876134185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_154
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1329
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee612dd82f47ae910800000000000000
+      internalID: 1867433580608755438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_155
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1315
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e3d3f1d28cf3f40800000000000000
+      internalID: 5710502948652269168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_156
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1330
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8214eb7b7e09b1de0800000000000000
+      internalID: -1361335137454898904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_157
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1336
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4929d925d0d6fec0800000000000000
+      internalID: -3533407243676866228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_158
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1328
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a4aeece1af89d20800000000000000
+      internalID: 3285650938394200693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_159
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1334
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c80c76dce013ec20800000000000000
+      internalID: 3234447566778927302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_160
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1337
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a866fed21c52a7c0800000000000000
+      internalID: -4061582677814908767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_161
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1328
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431a198e484284400800000000000000
+      internalID: 308536727731020084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_162
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1301
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dd381f548386900800000000000000
+      internalID: 677853616975109408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_163
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1289
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc87b4c90d2b3850800000000000000
+      internalID: 6357724818941906173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_164
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1301
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2230763591da9a20800000000000000
+      internalID: 3069996534800069163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_165
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1301
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5c6708647f2d90800000000000000
+      internalID: -7120344495699501284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_166
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1268
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c8bee1513657f70800000000000000
+      internalID: 9184355957456210961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_167
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1255
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4df0d925c141c9e0800000000000000
+      internalID: -1602927677301260980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_168
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1261
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2079ef7ec6a8a130800000000000000
+      internalID: 3578293309785337901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1256
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184c2482827283df0800000000000000
+      internalID: -200367129990347647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_170
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1262
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8722ab32b57cee90800000000000000
+      internalID: -6995086712848111729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_171
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1264
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436e3e1c513e7a1f0800000000000000
+      internalID: -1033607906871482828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_172
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1258
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bd3af737c06c050800000000000000
+      internalID: 5820353258625162110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_173
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1262
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3758ba4aa53521320800000000000000
+      internalID: 2527173989683135859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_174
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1247
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0046442d57b8d1cd0800000000000000
+      internalID: -2585757272885664768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_175
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1204
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db26fd3a8a9b61f20800000000000000
+      internalID: 3393103503225217725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_176
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1207
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105bd2da5dc16fb60800000000000000
+      internalID: 7779437110388176129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_177
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b81cde8cbb055c20800000000000000
+      internalID: 3194472415167781042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_178
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1248
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40484a0904cab2560800000000000000
+      internalID: 7290109815133864964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_179
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1202
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d4e8dfa1e61bab0800000000000000
+      internalID: -4994089449575002764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_180
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1242
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20a19a49f12443d0800000000000000
+      internalID: -3223414078708801493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_181
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1244
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73de94799c29f7f40800000000000000
+      internalID: 5728458645562846519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_182
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1222
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182f8c8206a9162d0800000000000000
+      internalID: -3287176515211955583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_183
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1216
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88bb03559b1268e0800000000000000
+      internalID: -1701767381035272053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_184
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1211
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cf803676c338c80800000000000000
+      internalID: -8321741271709713318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_185
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1210
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808676fa296a54500800000000000000
+      internalID: 379892892520900616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_186
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1209
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a363e460ca61b8320800000000000000
+      internalID: 2561165741186233914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_187
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1189
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2354367012eac60800000000000000
+      internalID: 7831233117657838310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_188
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1167
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db8ce593d6687700800000000000000
+      internalID: 538293214410214359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_189
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786695a69ad3548c0800000000000000
+      internalID: -4015735694887917945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_190
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1165
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d7e5d519b1a0f90800000000000000
+      internalID: -6986741560761221802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_191
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1181
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2e5d89c2031d160800000000000000
+      internalID: 7048467859912385192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_192
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1124
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece7b109d08e6f100800000000000000
+      internalID: 141555583258689230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_193
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1163
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a118afe3d21abf0800000000000000
+      internalID: -314920750425236904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_194
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1159
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91805a131153d8690800000000000000
+      internalID: -7598358648340543463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_195
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1133
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16e91f142feb5b10800000000000000
+      internalID: 1971432200324376094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_196
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1124
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce443db8de74c4a60800000000000000
+      internalID: 7659576151829071084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_197
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1133
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae8cc1b8c479b700800000000000000
+      internalID: 556604434282221218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_198
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 769
+        width: 302
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370da06c646e825b0800000000000000
+      internalID: -5392807362131472269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_199
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1090
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d229dc9c7b4c080800000000000000
+      internalID: -9168000864054268572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_200
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 769
+        width: 303
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed882105dc0d7880800000000000000
+      internalID: -8611712803475517979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_201
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 769
+        width: 308
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a956a7bc5f10770800000000000000
+      internalID: 8575405419770780314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_202
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 770
+        width: 314
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945d1710a9c7169d0800000000000000
+      internalID: -2782806093847210679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_203
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 770
+        width: 304
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53275fd38b9e6ca40800000000000000
+      internalID: 5388250981718127157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_204
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1081
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971189516e9d39480800000000000000
+      internalID: -8893525256898604679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_205
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 770
+        width: 305
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11614c81c1d8b0a90800000000000000
+      internalID: -7346623215310727663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_206
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 769
+        width: 300
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f1faafa08e9b9c0800000000000000
+      internalID: -3910839667541467252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_207
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 395
+        width: 313
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd3066178321f5a0800000000000000
+      internalID: -6489366524961210883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_208
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 394
+        width: 317
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6574a5e94274a2c50800000000000000
+      internalID: 6641198823112329046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_209
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 395
+        width: 307
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0accafdad68b5ea0800000000000000
+      internalID: -5882960213615785459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_210
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 394
+        width: 302
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893b292aa835a7040800000000000000
+      internalID: 4646117820484203416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_211
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 394
+        width: 306
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9162179cc0496c10800000000000000
+      internalID: 2047238753068671388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_212
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 394
+        width: 307
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b67ab02761384d0800000000000000
+      internalID: -3133636236642129035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_213
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 394
+        width: 310
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41345228817d33c30800000000000000
+      internalID: 4338047366350586644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angle attack_214
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 312
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc047b7fe3b48350800000000000000
+      internalID: 6018132843223583966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      angle attack_0: -5492826015253449128
+      angle attack_1: 3716901469623190817
+      angle attack_10: -6056093279787590286
+      angle attack_100: 4272358383660592405
+      angle attack_101: 3413805922070765925
+      angle attack_102: 2307487814988512444
+      angle attack_103: 2497420862848026842
+      angle attack_104: -8488289519240205903
+      angle attack_105: -5327589040713939550
+      angle attack_106: 1163480107730938442
+      angle attack_107: -5653800486691870704
+      angle attack_108: -3616920044259502636
+      angle attack_109: -5873620981457489350
+      angle attack_11: 5123707567148620751
+      angle attack_110: 4166793585237582051
+      angle attack_111: 183498647610681325
+      angle attack_112: -8186592829106773074
+      angle attack_113: -5416818101205542889
+      angle attack_114: -8129263827738383398
+      angle attack_115: -7415948676509053993
+      angle attack_116: 2889131909624269990
+      angle attack_117: -5650557879627708408
+      angle attack_118: -5092817078798717131
+      angle attack_119: -3338666945540735120
+      angle attack_12: 6285140089681987298
+      angle attack_120: 6265318105458529806
+      angle attack_121: 2952262891759997809
+      angle attack_122: 2566784578914372090
+      angle attack_123: -1317603821626698471
+      angle attack_124: -2136032396972665168
+      angle attack_125: 1520496930101879228
+      angle attack_126: -7545905283524799119
+      angle attack_127: 1883211236871353812
+      angle attack_128: 2331632033391664673
+      angle attack_129: 5737323463987792659
+      angle attack_13: -5645523289253889267
+      angle attack_130: -5226648425978176014
+      angle attack_131: -7992051771694303182
+      angle attack_132: -8778633981155378584
+      angle attack_133: -3508756890996883998
+      angle attack_134: -2006059846182848001
+      angle attack_135: 6149252663322173964
+      angle attack_136: -5816872640984280966
+      angle attack_137: 6331879537847726479
+      angle attack_138: 4767517018287487783
+      angle attack_139: -8565421225790893088
+      angle attack_14: -7673379539414760128
+      angle attack_140: -2720451544445606405
+      angle attack_141: 4133168789448155729
+      angle attack_142: -1570229077570807210
+      angle attack_143: -7587836611478692811
+      angle attack_144: 2899493917997308585
+      angle attack_145: 1366509861223962999
+      angle attack_146: 2167256588869141850
+      angle attack_147: 5681605872342507142
+      angle attack_148: 5363783468313915088
+      angle attack_149: 8038581222433161426
+      angle attack_15: -498258935053792741
+      angle attack_150: 8300730580441804840
+      angle attack_151: -6079918684700195765
+      angle attack_152: -9196532515414109719
+      angle attack_153: -6746503418876134185
+      angle attack_154: 1867433580608755438
+      angle attack_155: 5710502948652269168
+      angle attack_156: -1361335137454898904
+      angle attack_157: -3533407243676866228
+      angle attack_158: 3285650938394200693
+      angle attack_159: 3234447566778927302
+      angle attack_16: -1235502058653748968
+      angle attack_160: -4061582677814908767
+      angle attack_161: 308536727731020084
+      angle attack_162: 677853616975109408
+      angle attack_163: 6357724818941906173
+      angle attack_164: 3069996534800069163
+      angle attack_165: -7120344495699501284
+      angle attack_166: 9184355957456210961
+      angle attack_167: -1602927677301260980
+      angle attack_168: 3578293309785337901
+      angle attack_169: -200367129990347647
+      angle attack_17: -6399928242991865334
+      angle attack_170: -6995086712848111729
+      angle attack_171: -1033607906871482828
+      angle attack_172: 5820353258625162110
+      angle attack_173: 2527173989683135859
+      angle attack_174: -2585757272885664768
+      angle attack_175: 3393103503225217725
+      angle attack_176: 7779437110388176129
+      angle attack_177: 3194472415167781042
+      angle attack_178: 7290109815133864964
+      angle attack_179: -4994089449575002764
+      angle attack_18: 4631877473728289851
+      angle attack_180: -3223414078708801493
+      angle attack_181: 5728458645562846519
+      angle attack_182: -3287176515211955583
+      angle attack_183: -1701767381035272053
+      angle attack_184: -8321741271709713318
+      angle attack_185: 379892892520900616
+      angle attack_186: 2561165741186233914
+      angle attack_187: 7831233117657838310
+      angle attack_188: 538293214410214359
+      angle attack_189: -4015735694887917945
+      angle attack_19: -2240337090096615810
+      angle attack_190: -6986741560761221802
+      angle attack_191: 7048467859912385192
+      angle attack_192: 141555583258689230
+      angle attack_193: -314920750425236904
+      angle attack_194: -7598358648340543463
+      angle attack_195: 1971432200324376094
+      angle attack_196: 7659576151829071084
+      angle attack_197: 556604434282221218
+      angle attack_198: -5392807362131472269
+      angle attack_199: -9168000864054268572
+      angle attack_2: -3417859138382927096
+      angle attack_20: -3936706211886265422
+      angle attack_200: -8611712803475517979
+      angle attack_201: 8575405419770780314
+      angle attack_202: -2782806093847210679
+      angle attack_203: 5388250981718127157
+      angle attack_204: -8893525256898604679
+      angle attack_205: -7346623215310727663
+      angle attack_206: -3910839667541467252
+      angle attack_207: -6489366524961210883
+      angle attack_208: 6641198823112329046
+      angle attack_209: -5882960213615785459
+      angle attack_21: -4809934684810187463
+      angle attack_210: 4646117820484203416
+      angle attack_211: 2047238753068671388
+      angle attack_212: -3133636236642129035
+      angle attack_213: 4338047366350586644
+      angle attack_214: 6018132843223583966
+      angle attack_22: -119719253051412874
+      angle attack_23: 2179067827632440046
+      angle attack_24: 1603114491769581181
+      angle attack_25: 3516558389146570056
+      angle attack_26: 7136418857488174438
+      angle attack_27: -4536261151917707626
+      angle attack_28: 3898039909480382854
+      angle attack_29: -8845615876981036278
+      angle attack_3: -606629692205442781
+      angle attack_30: 2619883560110942541
+      angle attack_31: -8680641183866149897
+      angle attack_32: 8303456802714370841
+      angle attack_33: 2835973711556292357
+      angle attack_34: 9092784995411091378
+      angle attack_35: 9020228195167730533
+      angle attack_36: -5870421499409311160
+      angle attack_37: -5490921137929946167
+      angle attack_38: -1110172798829940547
+      angle attack_39: 6145707054576134113
+      angle attack_4: -145260023600040815
+      angle attack_40: -3753612853216432857
+      angle attack_41: 753016609791410315
+      angle attack_42: -4999128710123521125
+      angle attack_43: -2625308117122584822
+      angle attack_44: -7626653367996276124
+      angle attack_45: 2621113763710366280
+      angle attack_46: -6412359571324705671
+      angle attack_47: 7738005792065520961
+      angle attack_48: -6492718406550605283
+      angle attack_49: 8894225365814183565
+      angle attack_5: -4168940541368634119
+      angle attack_50: 3905652672200449248
+      angle attack_51: 8870844981139522433
+      angle attack_52: 3117547746430339112
+      angle attack_53: -1531212288636988021
+      angle attack_54: 2422251940974703378
+      angle attack_55: 7018308575507500147
+      angle attack_56: 171994344097589085
+      angle attack_57: 7541594735238186187
+      angle attack_58: 7930623281957571790
+      angle attack_59: -8557165910161477000
+      angle attack_6: -7578414855229779745
+      angle attack_60: -3570120361402534903
+      angle attack_61: -8040392749305531361
+      angle attack_62: 7463502797234067725
+      angle attack_63: 6106317044441161585
+      angle attack_64: 1449421665641936453
+      angle attack_65: 5758329479173137367
+      angle attack_66: 2040708153976510000
+      angle attack_67: -5152740357968542489
+      angle attack_68: 2166909179192903879
+      angle attack_69: -2760869899085402394
+      angle attack_7: 1145204509108994003
+      angle attack_70: -8714665811645663238
+      angle attack_71: 3438333012751903000
+      angle attack_72: 2576146248364233399
+      angle attack_73: -7312939237724231433
+      angle attack_74: -6483633684740186654
+      angle attack_75: 6240447858930736450
+      angle attack_76: -4539923206778871868
+      angle attack_77: 8162162123354821526
+      angle attack_78: -5547664264046207729
+      angle attack_79: -815179562097255148
+      angle attack_8: -2796004634977806285
+      angle attack_80: -7736165040676511937
+      angle attack_81: 7596474255556671192
+      angle attack_82: -7660478208979843512
+      angle attack_83: 1739068489476429627
+      angle attack_84: -5671345064298663968
+      angle attack_85: -1202715281454936464
+      angle attack_86: -4340842257361812202
+      angle attack_87: -359139581944202826
+      angle attack_88: 7513029028821241973
+      angle attack_89: 1036879792114302706
+      angle attack_9: -7641051308700369010
+      angle attack_90: 3767291694487839429
+      angle attack_91: -156953754131825760
+      angle attack_92: -8470701409974637965
+      angle attack_93: -894888622225471440
+      angle attack_94: 5134800052452869907
+      angle attack_95: 8487201065817824628
+      angle attack_96: 4295488724194176625
+      angle attack_97: -51284720925767100
+      angle attack_98: -6964427463129651416
+      angle attack_99: 1798475640582056047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 461d604ed8158a4419fed8611dbc4bb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4731674891078688431
+    second: angel_fall  (1)-0_0
+  - first:
+      213: -7869743562546622435
+    second: angel_fall  (1)-0_1
+  - first:
+      213: 8772291537008369630
+    second: angel_fall  (1)-0_2
+  - first:
+      213: 5301526543673400428
+    second: angel_fall  (1)-0_3
+  - first:
+      213: 5939941084488219796
+    second: angel_fall  (1)-0_4
+  - first:
+      213: -5446514716298092209
+    second: angel_fall  (1)-0_5
+  - first:
+      213: 5003635125929933154
+    second: angel_fall  (1)-0_6
+  - first:
+      213: -6538751646206136475
+    second: angel_fall  (1)-0_7
+  - first:
+      213: 5970197288792351753
+    second: angel_fall  (1)-0_8
+  - first:
+      213: 5442234681101777006
+    second: angel_fall  (1)-0_9
+  - first:
+      213: 1574211733207097521
+    second: angel_fall  (1)-0_10
+  - first:
+      213: -7994012422084961998
+    second: angel_fall  (1)-0_11
+  - first:
+      213: 4349506477598844219
+    second: angel_fall  (1)-0_12
+  - first:
+      213: -8310271236665526642
+    second: angel_fall  (1)-0_13
+  - first:
+      213: -2596818730337758065
+    second: angel_fall  (1)-0_14
+  - first:
+      213: 1411853843794583351
+    second: angel_fall  (1)-0_15
+  - first:
+      213: -1895249581469581336
+    second: angel_fall  (1)-0_16
+  - first:
+      213: 7182596888347056807
+    second: angel_fall  (1)-0_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_0
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1592
+        width: 279
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae51637e394aa140800000000000000
+      internalID: 4731674891078688431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_1
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1571
+        width: 238
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ddf0fced09c290800000000000000
+      internalID: -7869743562546622435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_2
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1556
+        width: 227
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf9c81eca07db970800000000000000
+      internalID: 8772291537008369630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_3
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1535
+        width: 231
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c15f28d4ec29940800000000000000
+      internalID: 5301526543673400428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1143
+        width: 246
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c3ba7f1f8ee6250800000000000000
+      internalID: 5939941084488219796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_5
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1143
+        width: 278
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f416d1fe8b71a64b0800000000000000
+      internalID: -5446514716298092209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_6
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1143
+        width: 325
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26978baf2ab707540800000000000000
+      internalID: 5003635125929933154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_7
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1143
+        width: 335
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fe1658500b145a0800000000000000
+      internalID: -6538751646206136475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 768
+        width: 330
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904e77d7dc66ad250800000000000000
+      internalID: 5970197288792351753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 768
+        width: 306
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f167bb93b68b40800000000000000
+      internalID: 5442234681101777006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_10
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 768
+        width: 304
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0af071b39b8d510800000000000000
+      internalID: 1574211733207097521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_11
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 768
+        width: 306
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239d0936e009f0190800000000000000
+      internalID: -7994012422084961998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 393
+        width: 306
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b352a81c81d8c5c30800000000000000
+      internalID: 4349506477598844219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 393
+        width: 309
+        height: 260
+      alignment: 9
+      pivot: {x: 0.59305114, y: 0.55227804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86b767075cfbac80800000000000000
+      internalID: -8310271236665526642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_14
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 393
+        width: 309
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5713894, y: 0.5315469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8413209f1f36fbd0800000000000000
+      internalID: -2596818730337758065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_15
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 393
+        width: 306
+        height: 280
+      alignment: 9
+      pivot: {x: 0.58766884, y: 0.5421559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f55223799e79310800000000000000
+      internalID: 1411853843794583351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 330
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef3ccf0c88b2b5e0800000000000000
+      internalID: -1895249581469581336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_fall  (1)-0_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 18
+        width: 321
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa90ce90d5bda360800000000000000
+      internalID: 7182596888347056807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3c45e4ed79d917b4c8b308bb46e98b7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      angel_fall  (1)-0_0: 4731674891078688431
+      angel_fall  (1)-0_1: -7869743562546622435
+      angel_fall  (1)-0_10: 1574211733207097521
+      angel_fall  (1)-0_11: -7994012422084961998
+      angel_fall  (1)-0_12: 4349506477598844219
+      angel_fall  (1)-0_13: -8310271236665526642
+      angel_fall  (1)-0_14: -2596818730337758065
+      angel_fall  (1)-0_15: 1411853843794583351
+      angel_fall  (1)-0_16: -1895249581469581336
+      angel_fall  (1)-0_17: 7182596888347056807
+      angel_fall  (1)-0_2: 8772291537008369630
+      angel_fall  (1)-0_3: 5301526543673400428
+      angel_fall  (1)-0_4: 5939941084488219796
+      angel_fall  (1)-0_5: -5446514716298092209
+      angel_fall  (1)-0_6: 5003635125929933154
+      angel_fall  (1)-0_7: -6538751646206136475
+      angel_fall  (1)-0_8: 5970197288792351753
+      angel_fall  (1)-0_9: 5442234681101777006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
